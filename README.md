@@ -19,19 +19,19 @@ The goal is to simulate how companies like Uber calculate dynamic pricing and ex
 The project follows a modular data pipeline structure:
 
 
-Uber-Price-Predictor/
-│── main.py                  # Runs the full pipeline
-│── test_pipeline.ipynb      # Testing & visualization
-│── README.md
-│
-├── src/
-│   ├── generate_data.py     # Creates synthetic Uber ride data
-│   ├── clean_data.py        # Filters invalid trips
-│   ├── feature_engineering.py # Adds time, duration, rush hour logic
-│   └── pricing_model.py     # Calculates ride prices
-│
-└── data/
-    └── processed_uber_data.csv  # Final dataset output
+##Uber-Price-Predictor/
+- main.py
+- test_pipeline.ipynb
+- README.md
+
+src/
+- generate_data.py
+- clean_data.py
+- feature_engineering.py
+- pricing_model.py
+
+data/
+- processed_uber_data.csv
 
 #🔄 How the Pipeline Works
 
