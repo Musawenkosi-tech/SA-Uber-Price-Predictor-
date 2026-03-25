@@ -33,7 +33,7 @@ src/
 data/
 - processed_uber_data.csv
 
-#🔄 How the Pipeline Works
+#How the Pipeline Works
 
 1. **Data Generation**
 
@@ -93,13 +93,12 @@ and run all cells to explore the data and visualizations.
 
 ---
 
-## 📈 Sample Insights
+## Sample Insights
 
 * Ride prices increase significantly during rush hours (7–9 AM, 4–6 PM)
 * Longer distances strongly correlate with higher prices
 * Traffic conditions (slower trips) increase total fare
 
----
 
 ## What I Learned
 
@@ -122,8 +121,8 @@ and run all cells to explore the data and visualizations.
 **Musa Mhlambi**
 Aspiring Data Engineer
 
-* 🌍 Pretoria, South Africa
-* 🔗 LinkedIn: https://www.linkedin.com/in/musawenkosi-mhlambi-04b5ba310
+* Pretoria, South Africa
+* LinkedIn: https://www.linkedin.com/in/musawenkosi-mhlambi-04b5ba310
 
 
 
