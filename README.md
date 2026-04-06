@@ -1,4 +1,4 @@
-# SA-Uber-Price-Predictor-
+# SA Uber Price Predictor (project is still in progress)
 
 A data engineering + analytics project that simulates Uber ride data in Pretoria and builds a pricing pipeline to estimate ride fares based on distance, time, and traffic conditions.This project is part of my journey into data engineering, focusing on building practical, real-world systems that simulate industry use cases.
 
